@@ -16,6 +16,7 @@ connectDB();
 
 // 7 routes
 app.use('/api/contact' , require ('./routes/Contact'));
+app.use('/api/user' , require ('./routes/user'));
 
 // 3 create PORT
 const PORT = process.env.PORT;

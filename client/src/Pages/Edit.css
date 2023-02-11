@@ -1,0 +1,27 @@
+.form {
+    width : 500px;
+    margin-top: 30px;
+    margin-left: 500px;
+    }
+    
+    .name {
+    padding-bottom: 5px;   
+    }
+    
+    .email {
+    padding-bottom: 5px; 
+    padding-top: 15px;    
+    }
+    
+    .phone {
+    padding-bottom: 5px; 
+    padding-top: 15px;   
+    }
+    
+    .button {
+    width: 70px;
+    }
+    
+    .input {
+        margin-bottom: 20px;
+    }
